@@ -273,7 +273,7 @@ const CountyMap: React.FC = () => {
         <div className="relative w-full">
             <div className="bg-white rounded-xl shadow-lg overflow-hidden mb-8">
                 <div className="p-6 bg-emerald-700 text-white">
-                    <h2 className="text-2xl font-bold mb-2">Interactive Environmental Justice Map</h2>
+                    <h2 className="text-2xl font-bold mb-2">Interactive Environmental Equality Map</h2>
                     <p className="text-emerald-100">Explore environmental vulnerability and demographic data across the United States.</p>
                 </div>
 
